@@ -6,12 +6,11 @@ The tool will allow adjusting parameters at runtime and the process will be docu
 <h3>Statement</h3>
 Detailed description of the project, including objectives and goals to be achieved.
 <h3>Requirements</h3>
-Before running the project, it is necessary to have installed [Library Name 1], [Library Name 2], etc.
+Before running the project, it is necessary to have installed [numpy], [pyplot and patches from matplotlib], etc.
 <h3>Instructions</h3>
 To install the project, follow these steps:
-1- Clone the repository from GitHub: git clone https://github.com/your-username/your-project.git
+1- Clone the repository from GitHub: git clone https://github.com/JuanCaarPapers/SOM_Network
 
-2- Install necessary dependencies: pip install -r requirements.txt
 
 <h3>Usage</h3>
 To use the project, follow these steps:
@@ -25,5 +24,3 @@ To use the project, follow these steps:
 5- Run the code to visualize the results
 <h3>Authors</h3>
 This project has been developed by Bruno Emilio Sanchez Rey and Juan Calros Graells Pérez.
-<h3>Credits</h3>
-This project uses libraries created by "name of the creator" and available at "source of the resource"
